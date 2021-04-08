@@ -1,1 +1,2 @@
 I am a ten.txt file.
+I am a another line of ten.txt file.
